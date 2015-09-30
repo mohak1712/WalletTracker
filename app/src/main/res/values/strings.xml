@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WalletTracker</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Navigate</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title_activity_app_intro">AppIntro</string>
+    <string name="title_activity_appintro">Appintro</string>
+    <string name="font">Finally got my custom font to work bitch!!</string>
+    <string name="title_activity_third_acivity">ThirdAcivity</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+    <string name="title_activity_xmlactivity">XMLactivity</string>
+    <string name="title_activity_fifth">FifthActivity</string>
+    <string name="title_activity_sixth">SixthActivity</string>
+
+</resources>
